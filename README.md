@@ -1,9 +1,7 @@
 # melcowe-1
 #hello world 
 #how are u
-
-
-
+#######################################
 dir
 ls
 ll
@@ -11,18 +9,13 @@ cd ..
 sesudo mcc
 su sudo fraaudd
 editor
-
 :q
 :q!
 exit
-
-
+#########################################
 view performmance.logg
 vi log.log
 Cntrl >C to exit
-
-
-
 JBoss/bin 
 > ll
 
