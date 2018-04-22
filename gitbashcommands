@@ -28,15 +28,7 @@ $ history
    25  pwd
    26  ls
    27  git clone https://github.com/sonatype/nexus-oss.git
-   28  git clone https://github.com/findbugsproject/findbugs.git
-   29  git clone https://github.com/spring-projects/spring-boot.git
-   30  git clone https://github.com/spring-projects/spring-boot.git
-   31  git clone https://github.com/JodaOrg/joda-time.git
-   32  ll
-   33  git clone https://github.com/apache/commons-lang.git
-   34  git clone https://github.com/apache/spark.git
-   35  git clone https://github.com/junit-team/junit4.git
-   36  pwd
+   28 
    37  git clone https://github.com/RenjithKI/springmockedtests.git
    38  pwd
    39  ls
