@@ -30,3 +30,5 @@ http://www.baeldung.com/java-executor-service-tutorial
 https://alexecollins.com/5-tips-unit-testing-threaded-code/
 
 #https://github.com/duluca/lemon-mart
+
+https://books.google.ie/books?id=_u9hDwAAQBAJ&pg=PA188&lpg=PA188&dq=angular+eventing+and+template+reference+variables&source=bl&ots=S3Wtfymc-S&sig=5L3eksVpYn9z_ube_cv0tYoQ0EM&hl=en&sa=X&ved=2ahUKEwiU85OO56TdAhWMCcAKHadVAfcQ6AEwBXoECAUQAQ#v=onepage&q=angular%20eventing%20and%20template%20reference%20variables&f=false
